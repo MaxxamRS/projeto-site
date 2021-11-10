@@ -16,3 +16,30 @@ main {
     box-shadow: 3px 3px 5px black;
 }
 
+h1 {
+    font-size: 2em;
+    color: blue;
+
+}
+
+h2 {
+    font-size: 1.5em;
+    color: blue;
+
+}
+
+img.lado {
+    float: right;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
+
+}
