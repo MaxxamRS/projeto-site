@@ -15,3 +15,28 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0 ,0 ,0 ,473);
 }
+
+img.lado {
+    float: right;
+}
+
+h1 {
+    font-size: 2em;
+    color: blueviolet;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: blueviolet;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blueviolet;
+}
